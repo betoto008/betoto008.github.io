@@ -1,27 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Física y Evolución</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-  	<nav>
-	<center>
-  
-    <a href="/"  > Home</a> &nbsp; &nbsp;
-  
-    <a href="/about.html"  > About</a> &nbsp; &nbsp;
-  
-    <a href="/Research.html"  > Research</a> &nbsp; &nbsp;
-  
-    <a href="/fisica_evolucion.html"  class="current" > <i>Física y Evolución</i></a> &nbsp; &nbsp;
-  
-    <a href="/statistical_physics"  > Statistical Physics</a> &nbsp; &nbsp;
-  
-  </center>
-</nav>
-    <h1>Latest Posts</h1>
+I"~<h1>Latest Posts</h1>
 
 <ul>
   
@@ -35,7 +12,14 @@
     </li>
     
   
-</ul>
+  	
+    <li>
+      <h2><a href="/2021/02/23/zero_post_FyE.html">cero entrada</a></h2>
+      <p>sdfgjknds jgkd
+sdçfgsdgsdfg</p>
 
-  </body>
-</html>
+    </li>
+    
+  
+</ul>
+:ET
