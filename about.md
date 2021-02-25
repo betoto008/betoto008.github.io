@@ -2,7 +2,9 @@
 layout: default
 title: About me
 ---
-\
+
+\_
+
 <h1> About me </h1> {:class="title"}
 
 ![fig1](./assets/images/camino.JPG#center){:class="figure"}
