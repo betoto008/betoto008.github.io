@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".current {\n  color: green;\n}"
+		".current {\n  color: green;\n}\n.figure {\n    float: center;\n    display: block;\n    margin: 0 auto;\n    width: 800px;\n    height: auto;\n}\n.image-caption {\n\tdisplay: block;\n\tmargin: 0 auto;\n\ttext-align: center;\n\tfont-size: 14pt;\n\tcolor: light-grey;\n  }\n\n.title {\n\tdisplay: block;\n\tmargin: 0 auto;\n\tfont-size : 24pt;\n\ttext-align: center;\n\ttext-style: bold;\n}"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACb;;AACD,AAAA,OAAO,CAAC,EACJ,KAAK,EAAE,MAAM,EACb,OAAO,EAAE,KAAK,EACd,MAAM,EAAE,MAAM,EACd,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,IAAI,GACf;;AACD,AAAA,cAAc,CAAC,EACd,OAAO,EAAE,KAAK,EACd,MAAM,EAAE,MAAM,EACd,UAAU,EAAE,MAAM,EAClB,SAAS,EAAE,IAAI,EACf,KAAK,EAAE,UAAU,GACf;;AAEH,AAAA,MAAM,CAAC,EACN,OAAO,EAAE,KAAK,EACd,MAAM,EAAE,MAAM,EACd,SAAS,EAAG,IAAI,EAChB,UAAU,EAAE,MAAM,EAClB,UAAU,EAAE,IAAI,GAChB"
 }
